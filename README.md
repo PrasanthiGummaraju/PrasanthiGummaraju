@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on 3rd year computer science and systems engineering
+- 🔭 I’m currently working on 4th year computer science and systems engineering
 - 🌱 I’m currently learning github
 - 👯 I’m looking to collaborate on ML|python projects
 - 🤔 I’m looking for help with any projects
